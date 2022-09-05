@@ -1,8 +1,5 @@
 programa {
 	funcao inicio() {
-		/*
-		 * Ler tempo em sec e mostrar em hh:mm:ss
-		 */
 		 // Declaração de Variáveis
 		 inteiro segundosTotais, horas, minutos, segundos
 
@@ -25,7 +22,7 @@ programa {
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 534; 
+ * @POSICAO-CURSOR = 33; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
